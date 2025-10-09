@@ -1,1 +1,12 @@
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+body{
+     background-color:burlywood;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+p{
+    line-height: 1.6;
+}
 
